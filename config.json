@@ -1,0 +1,10 @@
+{
+    "_note":  "LanSync 配置文件（开源版）",
+    "_note2":  "pin_code: 局域网访问 PIN 码，留空=不启用",
+    "_note3":  "invite_token: 手机私密加入邀请码（留空=任意设备可加入）",
+    "img_dir":  "C:\\Users\\wiaku\\Pictures",
+    "offline_voice":  false,
+    "voice_version":  false,
+    "invite_token":  "",
+    "pin_code":  ""
+}

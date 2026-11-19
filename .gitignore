@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# LanSync runtime data (do NOT commit)
+*.log
+history.db
+history.db-*
+uploads/
+certs/
+bans.json
+.lc_lic
+.lc_lock
+.lc_trial
+.lc_dev_unlock
+*.lock
+
+# PyInstaller
+*.spec
+
+# Node (if ever used)
+node_modules/
+npm-debug.log*
+
+# Product images (marketing artworks)
+product_images/
